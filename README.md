@@ -11,4 +11,5 @@ Android Testing Frameworks etc.
 
 
 <h3>Resources</h3>
-<a href="http://de.slideshare.net/dtmilano/testing-on-android">Testing on Android</a>
+<p><a href="http://de.slideshare.net/dtmilano/testing-on-android">Testing on Android</a></p>
+<p><a href="http://www.vogella.com/articles/AndroidTesting/article.html">Android Testing</a></p>
